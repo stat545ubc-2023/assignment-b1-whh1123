@@ -7,6 +7,6 @@
 
 ## Documents in this repository
 
-**Assignment_B1.Rmd** 
-**Assignment_B1.md**
-**README.md**
+ - **Assignment_B1.Rmd** 
+ - **Assignment_B1.md**
+ - **README.md**
